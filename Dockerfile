@@ -1,1 +1,1 @@
-FROM heroku/node.js
+FROM heroku/nodejs
