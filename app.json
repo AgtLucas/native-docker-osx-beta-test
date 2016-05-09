@@ -1,0 +1,5 @@
+{
+  "name": "Anywhereeee",
+  "description": "Playing with Docker for OS X",
+  "image": "heroku/node.js"
+}
